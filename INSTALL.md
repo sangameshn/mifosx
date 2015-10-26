@@ -32,7 +32,7 @@ The two ways to get up and running with mifos platform is:
 
 ## 1. Amazon Public AMI
 
-  Use AWS Wizard to launch instance by using this link: <a target="_blank" href="https://console.aws.amazon.com/ec2/home?region=eu-west-1#launchAmi=ami-948b6be3" title="Mifos Platform Public AMI 1.13.0.RELEASE">Mifos Platform AMI (ami-948b6be3)</a>
+  Use AWS Wizard to launch instance by using this link: <a target="_blank" href="https://console.aws.amazon.com/ec2/home?region=eu-west-1#launchAmi=ami-ami-dc6c7e8e" title="Mifos Platform Public AMI 15.10.2.RELEASE">Mifos Platform AMI (ami-dc6c7e8e)</a>
 
   *Note:* Read through the following as you step through the AWS Wizard
   
@@ -47,20 +47,20 @@ The two ways to get up and running with mifos platform is:
     - Reference application should be available @ https://[public DNS]:8443/IndividualLendingGeneralJavaScript/IndivLendHome.html?baseApiUrl=https://[server ip address]:8443/mifosng-provider/api/v1/
     - API docs should be available @ https://[public DNS]:8443/api-docs/apiLive.htm
 
-  *Name:* Mifos Platform 1.13.0.RELEASE Public AMI
+  *Name:* Mifos Platform 15.10.2.RELEASE Public AMI
   
- - AMI ID: ami-948b6be3
+ - AMI ID: ami-dc6c7e8e
  - Kernel ID: aki-71665e05
- - Name: Mifos Platform 1.13.0.RELEASE Public AMI
+ - Name: Mifos Platform 15.10.2.RELEASE Public AMI
  - Owner: 476083131096
- - Source: 476083131096/Mifos Platform 1.13.0.RELEASE Public AMI
+ - Source: 476083131096/Mifos Platform 15.10.2.RELEASE Public AMI
  - Architecture: Ubuntu12.04 LTS x86_64
- - Built starting from Ubuntu AMI ami-35acbb41
+ - Built starting from Ubuntu AMI ami-dc6c7e8e
  - Java 1.6_45 32 bit JVM
  - Tomcat 7.0.39 (with SSL configured for self-signed certificate)
  - MySql 5.5.31
- - Mifos Platform 1.13.0.RELEASE
- - Mifos Reference App 1.13.0.RELEASE
+ - Mifos Platform 15.10.2.RELEASE
+ - Mifos Reference App 15.10.2.RELEASE
 
 ## 2. Manual Installation
 
