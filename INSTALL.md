@@ -50,7 +50,7 @@ The two ways to get up and running with mifos platform is:
   *Name:* Mifos Platform 15.10.2.RELEASE Public AMI
   
  - AMI ID: ami-dc6c7e8e
- - Kernel ID: aki-71665e05
+ - Kernel ID: aki-503e7402
  - Name: Mifos Platform 15.10.2.RELEASE Public AMI
  - Owner: 476083131096
  - Source: 476083131096/Mifos Platform 15.10.2.RELEASE Public AMI
